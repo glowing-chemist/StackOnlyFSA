@@ -1,0 +1,9 @@
+
+Does what is says on the tin. A stack only (no allocation)
+DFSA
+
+
+TODO:
+~ Needs cleaning up
+~ Write documentation
+~ swap std::function for small function optimised only function
